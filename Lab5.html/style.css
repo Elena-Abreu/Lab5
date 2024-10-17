@@ -52,4 +52,9 @@
 .inline-element { 
     background-color: darkslategray; 
     display: inline;
+} 
+
+.block-element { 
+    background-color: aquamarine; 
+    display: block;
 }
