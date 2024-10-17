@@ -57,4 +57,10 @@
 .block-element { 
     background-color: aquamarine; 
     display: block;
+} 
+
+.inline-block-element 
+{ 
+    background-color: darkorchid; 
+    display: inline-block;
 }
