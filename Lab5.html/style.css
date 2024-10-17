@@ -78,6 +78,11 @@
 .invisible-element { 
     background-color: green; 
     visibility: hidden;
-} 
+}  
+
+.transparent-box { 
+    background-color: rgba(0, 0, 255, 0.5); 
+
+}
 
 
