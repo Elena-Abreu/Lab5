@@ -27,4 +27,11 @@
 .border-box { 
     background-color: darkcyan; 
     border: black 2px solid; 
+} 
+
+.rounded-border { 
+    background-color: darkgray; 
+    border: red 3px dotted;
+    border-radius: 15px;  
+    
 }
