@@ -8,4 +8,10 @@
     background-color: burlywood; 
     height: 50vh; 
     width: 50vw;
+} 
+
+
+.padded-text { 
+    background-color: cadetblue; 
+    padding: 20px;
 }
