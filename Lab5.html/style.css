@@ -2,4 +2,10 @@
     background-color: chocolate; 
     height: 200px ;
     width: 300px;
+} 
+
+.responsive-box { 
+    background-color: burlywood; 
+    height: 50vh; 
+    width: 50vw;
 }
