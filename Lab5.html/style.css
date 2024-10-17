@@ -73,5 +73,11 @@
 .visible-element { 
     background-color: yellowgreen; 
     visibility: visible;
+}  
+
+.invisible-element { 
+    background-color: green; 
+    visibility: hidden;
 } 
+
 
