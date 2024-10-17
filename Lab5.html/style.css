@@ -63,4 +63,9 @@
 { 
     background-color: darkorchid; 
     display: inline-block;
+} 
+
+.hidden-element { 
+    background-color: forestgreen; 
+    display: none;
 }
