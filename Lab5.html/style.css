@@ -72,5 +72,6 @@
 
 .visible-element { 
     background-color: yellowgreen; 
-    display: visible;
-}
+    visibility: visible;
+} 
+
