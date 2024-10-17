@@ -68,4 +68,9 @@
 .hidden-element { 
     background-color: forestgreen; 
     display: none;
+} 
+
+.visible-element { 
+    background-color: yellowgreen; 
+    display: visible;
 }
